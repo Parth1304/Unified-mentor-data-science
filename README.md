@@ -5,8 +5,7 @@ This Pizza Sales Analysis Project featuring a dynamic Power BI dashboard that br
 * SQL Server Management Studio
 * SQL
 * Power BI
-* Power Query
-* Dax Query
+
 
 # Steps covered
 * Imported raw sales data into SQL server using import task option in SSMS and Sql to analyze the data in SSMS
